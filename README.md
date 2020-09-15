@@ -2,6 +2,10 @@
 ## DayLignt Project
 - D-Day, Reminder, Alarm, Gift Recommend 기능을 가진 안드로이드 일정 관리 어플리케이션
 
+[발표영상](https://www.youtube.com/watch?v=Lff0H6KfMKQ)
+
+[시연영상](https://www.youtube.com/watch?v=xflnIw14bL0)
+
 ## Use API
 - Firebase Database
 
@@ -14,9 +18,6 @@
 
 
 ## 참고자료
-[발표영상](https://www.youtube.com/watch?v=Lff0H6KfMKQ)
-
-[시연영상](https://www.youtube.com/watch?v=xflnIw14bL0)
 
 [스와이프](https://github.com/chthai64/SwipeRevealLayout) 
 
