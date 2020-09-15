@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Theme Setting"
+        android:textSize="30dp"
+        android:padding="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+    <RadioGroup
+        android:id="@+id/r_group"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RadioButton
+            android:id="@+id/radio_emerald"
+            android:background="@color/emerald"
+            android:text="Emerald(Default)"
+            android:textColor="@color/white"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <RadioButton
+            android:id="@+id/radio_green"
+            android:background="@color/pastelGreen"
+            android:text="Pastel green"
+            android:textColor="@color/white"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <RadioButton
+            android:id="@+id/radio_yellow"
+            android:background="@color/pastelYellow"
+            android:text="Pastel yellow"
+            android:textColor="@color/white"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <RadioButton
+            android:id="@+id/radio_pink"
+            android:background="@color/pastelPink"
+            android:text="Pastel pink"
+            android:textColor="@color/white"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <RadioButton
+            android:id="@+id/radio_pupple"
+            android:background="@color/pastelPupple"
+            android:text="Pastel pupple"
+            android:textColor="@color/white"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </RadioGroup>
+</LinearLayout>

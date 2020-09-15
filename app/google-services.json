@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "149724003078",
+    "firebase_url": "https://daylight-73c39.firebaseio.com",
+    "project_id": "daylight-73c39",
+    "storage_bucket": "daylight-73c39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149724003078:android:4ceefb7423c7412e30bc87",
+        "android_client_info": {
+          "package_name": "com.project.daylight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149724003078-qvlb5s3pf9e47k1p2vlgfauvc679d9g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.daylight",
+            "certificate_hash": "9a0db580b638433289b1b175b828ba1d0b2e832a"
+          }
+        },
+        {
+          "client_id": "149724003078-f17jcqgnq3f2lr280jvknj4ca2bi73ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5YNHOxAYtmvBEsJoigEHOImi8vTgNkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149724003078-f17jcqgnq3f2lr280jvknj4ca2bi73ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

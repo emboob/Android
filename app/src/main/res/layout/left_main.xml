@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/pastelDark"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/version_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:padding="20dp"
+        android:drawableLeft="@drawable/ic_info"
+        android:drawablePadding="10dp"
+        android:text="Version"
+        android:textSize="20dp"
+        android:textColor="@color/white"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="-16dp" />
+
+    <TextView
+        android:id="@+id/notification_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:padding="20dp"
+        android:drawableLeft="@drawable/ic_noti"
+        android:drawablePadding="10dp"
+        android:text="Notification"
+        android:textSize="20dp"
+        android:textColor="@color/white"
+        app:layout_constraintTop_toBottomOf="@+id/version_tv"
+        tools:layout_editor_absoluteX="-39dp" />
+
+    <TextView
+        android:id="@+id/donation_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:padding="20dp"
+        android:drawableLeft="@drawable/ic_gift"
+        android:drawablePadding="10dp"
+        android:text="Present a cup of coffee as a gift"
+        android:textSize="20dp"
+        android:textColor="@color/white"
+        app:layout_constraintTop_toBottomOf="@+id/notification_tv"
+        tools:layout_editor_absoluteX="-65dp" />
+
+    <TextView
+        android:id="@+id/theme_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:padding="20dp"
+        android:drawableLeft="@drawable/ic_theme"
+        android:drawablePadding="10dp"
+        android:text="Theme"
+        android:textSize="20dp"
+        android:textColor="@color/white"
+        app:layout_constraintTop_toBottomOf="@+id/donation_tv"
+        tools:layout_editor_absoluteX="-89dp" />
+
+    <TextView
+        android:id="@+id/bug_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:padding="20dp"
+        android:drawableLeft="@drawable/ic_bug"
+        android:drawablePadding="10dp"
+        android:text="Bug report"
+        android:textSize="20dp"
+        android:textColor="@color/white"
+        app:layout_constraintTop_toBottomOf="@+id/theme_tv"
+        tools:layout_editor_absoluteX="16dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

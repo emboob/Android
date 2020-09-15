@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <!--
+    <color name="colorAccent">#D81B60</color>
+    <color name="pastelDeepAccent">#FC7287</color>
+    <color name="pastelAccent">#F4887B</color>
+    <color name="pastel">#B5645B</color>
+    <color name="pastelDark">#804640</color>
+    <color name="pastelDeepDark">#402320</color>
+    -->
+    <color name="colorAccent">#FF1C59</color>
+    <color name="pastelDeepAccent">#FF99B5</color>
+    <color name="pastelAccent">#E88BD3</color>
+    <color name="pastel">#F2A6FF</color>
+    <color name="pastelDark">#C18BE8</color>
+    <color name="pastelDeepDark">#B899FF</color>
+
+    <color name="emerald">#91D2C5</color>
+    <color name="pastelGreen">#CFE4A5</color>
+    <color name="pastelYellow">#FEDC95</color>
+    <color name="pastelPink">#F4887B</color>
+    <color name="pastelPupple">#CBABD1</color>
+    <color name="blue">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+</resources>

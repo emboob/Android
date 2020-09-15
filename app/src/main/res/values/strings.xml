@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DayLight</string>
+
+    <string name="input_title">제목 입력</string>
+    <string name="input_date">날짜 선택</string>
+    <string name="input_category">카테고리    ex)과제, 약속</string>
+    <string name="input_gift">선물</string>
+    <string name="input_location">장소</string>
+    <string name="alarm">시간 선택</string>
+    <string name="memo">메모</string>
+    <string name="add">추가하기</string>
+
+    <string name="channel_name">day_light_channel</string>
+    <string name="channel_description">day_light_channel_description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
